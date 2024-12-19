@@ -1,0 +1,4 @@
+
+# 0: default, 1: proxylisting
+mode = 1
+ip = "192.168.1.2"
